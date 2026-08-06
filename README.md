@@ -17,6 +17,7 @@
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/AlrajKadivar567/My_LeetCode/tree/master/0202-happy-number) |
+| [0258-add-digits](https://github.com/AlrajKadivar567/My_LeetCode/tree/master/0258-add-digits) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/AlrajKadivar567/My_LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Enumeration
 |  |
@@ -34,4 +35,12 @@
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/AlrajKadivar567/My_LeetCode/tree/master/0202-happy-number) |
+## Simulation
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/AlrajKadivar567/My_LeetCode/tree/master/0258-add-digits) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/AlrajKadivar567/My_LeetCode/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->

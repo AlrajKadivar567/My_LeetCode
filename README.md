@@ -43,4 +43,12 @@
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/AlrajKadivar567/My_LeetCode/tree/master/0258-add-digits) |
+## Binary Search
+|  |
+| ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/AlrajKadivar567/My_LeetCode/tree/master/0374-guess-number-higher-or-lower) |
+## Interactive
+|  |
+| ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/AlrajKadivar567/My_LeetCode/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->

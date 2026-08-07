@@ -19,6 +19,7 @@
 | [0202-happy-number](https://github.com/AlrajKadivar567/My_LeetCode/tree/master/0202-happy-number) |
 | [0258-add-digits](https://github.com/AlrajKadivar567/My_LeetCode/tree/master/0258-add-digits) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/AlrajKadivar567/My_LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/AlrajKadivar567/My_LeetCode/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Enumeration
 |  |
 | ------- |
@@ -43,6 +44,7 @@
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/AlrajKadivar567/My_LeetCode/tree/master/0258-add-digits) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/AlrajKadivar567/My_LeetCode/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Binary Search
 |  |
 | ------- |
@@ -53,4 +55,16 @@
 | ------- |
 | [0278-first-bad-version](https://github.com/AlrajKadivar567/My_LeetCode/tree/master/0278-first-bad-version) |
 | [0374-guess-number-higher-or-lower](https://github.com/AlrajKadivar567/My_LeetCode/tree/master/0374-guess-number-higher-or-lower) |
+## String
+|  |
+| ------- |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/AlrajKadivar567/My_LeetCode/tree/master/3348-smallest-divisible-digit-product-ii) |
+## Backtracking
+|  |
+| ------- |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/AlrajKadivar567/My_LeetCode/tree/master/3348-smallest-divisible-digit-product-ii) |
+## Greedy
+|  |
+| ------- |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/AlrajKadivar567/My_LeetCode/tree/master/3348-smallest-divisible-digit-product-ii) |
 <!---LeetCode Topics End-->

@@ -32,6 +32,7 @@
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/AlrajKadivar567/My_LeetCode/tree/master/0202-happy-number) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/AlrajKadivar567/My_LeetCode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
@@ -58,6 +59,7 @@
 ## String
 |  |
 | ------- |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/AlrajKadivar567/My_LeetCode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/AlrajKadivar567/My_LeetCode/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Backtracking
 |  |
@@ -66,5 +68,10 @@
 ## Greedy
 |  |
 | ------- |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/AlrajKadivar567/My_LeetCode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/AlrajKadivar567/My_LeetCode/tree/master/3348-smallest-divisible-digit-product-ii) |
+## Dynamic Programming
+|  |
+| ------- |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/AlrajKadivar567/My_LeetCode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 <!---LeetCode Topics End-->

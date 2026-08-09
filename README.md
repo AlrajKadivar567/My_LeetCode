@@ -42,6 +42,7 @@
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/AlrajKadivar567/My_LeetCode/tree/master/0258-add-digits) |
+| [1929-concatenation-of-array](https://github.com/AlrajKadivar567/My_LeetCode/tree/master/1929-concatenation-of-array) |
 ## Number Theory
 |  |
 | ------- |
@@ -80,6 +81,7 @@
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/AlrajKadivar567/My_LeetCode/tree/master/1140-stone-game-ii) |
+| [1929-concatenation-of-array](https://github.com/AlrajKadivar567/My_LeetCode/tree/master/1929-concatenation-of-array) |
 ## Minimax
 |  |
 | ------- |

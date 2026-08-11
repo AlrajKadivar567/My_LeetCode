@@ -83,6 +83,7 @@
 ## Array
 |  |
 | ------- |
+| [0485-max-consecutive-ones](https://github.com/AlrajKadivar567/My_LeetCode/tree/master/0485-max-consecutive-ones) |
 | [1140-stone-game-ii](https://github.com/AlrajKadivar567/My_LeetCode/tree/master/1140-stone-game-ii) |
 | [1470-shuffle-the-array](https://github.com/AlrajKadivar567/My_LeetCode/tree/master/1470-shuffle-the-array) |
 | [1929-concatenation-of-array](https://github.com/AlrajKadivar567/My_LeetCode/tree/master/1929-concatenation-of-array) |

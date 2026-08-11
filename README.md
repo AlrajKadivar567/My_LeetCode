@@ -30,6 +30,7 @@
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/AlrajKadivar567/My_LeetCode/tree/master/0202-happy-number) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/AlrajKadivar567/My_LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Two Pointers
 |  |
 | ------- |
@@ -85,6 +86,7 @@
 | [1140-stone-game-ii](https://github.com/AlrajKadivar567/My_LeetCode/tree/master/1140-stone-game-ii) |
 | [1470-shuffle-the-array](https://github.com/AlrajKadivar567/My_LeetCode/tree/master/1470-shuffle-the-array) |
 | [1929-concatenation-of-array](https://github.com/AlrajKadivar567/My_LeetCode/tree/master/1929-concatenation-of-array) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/AlrajKadivar567/My_LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Minimax
 |  |
 | ------- |
@@ -112,4 +114,8 @@
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/AlrajKadivar567/My_LeetCode/tree/master/1510-stone-game-iv) |
+## Sorting
+|  |
+| ------- |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/AlrajKadivar567/My_LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 <!---LeetCode Topics End-->

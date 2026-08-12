@@ -30,6 +30,7 @@
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/AlrajKadivar567/My_LeetCode/tree/master/0202-happy-number) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/AlrajKadivar567/My_LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/AlrajKadivar567/My_LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Two Pointers
 |  |
@@ -87,6 +88,7 @@
 | [1140-stone-game-ii](https://github.com/AlrajKadivar567/My_LeetCode/tree/master/1140-stone-game-ii) |
 | [1470-shuffle-the-array](https://github.com/AlrajKadivar567/My_LeetCode/tree/master/1470-shuffle-the-array) |
 | [1929-concatenation-of-array](https://github.com/AlrajKadivar567/My_LeetCode/tree/master/1929-concatenation-of-array) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/AlrajKadivar567/My_LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/AlrajKadivar567/My_LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Minimax
 |  |
@@ -119,4 +121,8 @@
 |  |
 | ------- |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/AlrajKadivar567/My_LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+## Sliding Window
+|  |
+| ------- |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/AlrajKadivar567/My_LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 <!---LeetCode Topics End-->

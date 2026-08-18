@@ -32,6 +32,7 @@
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/AlrajKadivar567/My_LeetCode/tree/master/0202-happy-number) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/AlrajKadivar567/My_LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/AlrajKadivar567/My_LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/AlrajKadivar567/My_LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/AlrajKadivar567/My_LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -92,6 +93,7 @@
 ## Array
 |  |
 | ------- |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/AlrajKadivar567/My_LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/AlrajKadivar567/My_LeetCode/tree/master/0485-max-consecutive-ones) |
 | [1140-stone-game-ii](https://github.com/AlrajKadivar567/My_LeetCode/tree/master/1140-stone-game-ii) |
 | [1470-shuffle-the-array](https://github.com/AlrajKadivar567/My_LeetCode/tree/master/1470-shuffle-the-array) |
